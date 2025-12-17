@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 配置文件
+config.json
+
+# 日志文件
+*.csv
+network_log_*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+
+
